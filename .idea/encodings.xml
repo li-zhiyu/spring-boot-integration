@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-springboot-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-springboot-redis-login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-springboot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-springboot-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db-druid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db-druid/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/db-dynamic-datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db-mybatis-mutidatasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db-shardingjdbc-dxfl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db-shardingjdbc-fkfb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-shiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-stomp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-websocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webtojava/src/main/java" charset="UTF-8" />
+  </component>
+</project>

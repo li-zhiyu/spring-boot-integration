@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="db-dynamic-datasource" />
+        <module name="db-druid" />
+        <module name="02-springboot-redis-login" />
+        <module name="web-thymeleaf" />
+        <module name="04-springboot-data-jpa" />
+        <module name="01-springboot-base" />
+        <module name="web-security" />
+        <module name="dubbo-consumer" />
+        <module name="db-shardingjdbc-fkfb" />
+        <module name="dubbo-provider" />
+        <module name="rabbitmq" />
+        <module name="web-shiro" />
+        <module name="web-to-java" />
+        <module name="db-mybatis-mutidatasource" />
+        <module name="dubbo-facade" />
+        <module name="web-websocket" />
+        <module name="web-mvc" />
+        <module name="02-springboot-redis" />
+        <module name="db-shardingjdbc-dxfl" />
+        <module name="web-stomp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-springboot-base" target="1.8" />
+      <module name="02-springboot-redis" target="1.8" />
+      <module name="02-springboot-redis-login" target="1.8" />
+      <module name="03-springboot-validation" target="1.8" />
+      <module name="04-springboot-data-jpa" target="1.8" />
+      <module name="db-druid" target="1.8" />
+      <module name="db-dynamic-datasource" target="1.8" />
+      <module name="db-mybatis-mutidatasource" target="1.8" />
+      <module name="db-shardingjdbc-dxfl" target="1.8" />
+      <module name="db-shardingjdbc-fkfb" target="1.8" />
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-facade" target="1.5" />
+      <module name="dubbo-provider" target="1.8" />
+      <module name="rabbitmq" target="1.8" />
+      <module name="web-mvc" target="1.8" />
+      <module name="web-security" target="1.8" />
+      <module name="web-shiro" target="1.8" />
+      <module name="web-stomp" target="1.8" />
+      <module name="web-thymeleaf" target="1.8" />
+      <module name="web-to-java" target="1.8" />
+      <module name="web-websocket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-springboot-base" options="-parameters" />
+      <module name="02-springboot-redis" options="-parameters" />
+      <module name="02-springboot-redis-login" options="-parameters" />
+      <module name="03-springboot-validation" options="-parameters" />
+      <module name="04-springboot-data-jpa" options="-parameters" />
+      <module name="db-druid" options="-parameters" />
+      <module name="db-dynamic-datasource" options="-parameters" />
+      <module name="db-mybatis-mutidatasource" options="-parameters" />
+      <module name="db-shardingjdbc-dxfl" options="-parameters" />
+      <module name="db-shardingjdbc-fkfb" options="-parameters" />
+      <module name="dubbo-consumer" options="-parameters" />
+      <module name="dubbo-provider" options="-parameters" />
+      <module name="rabbitmq" options="-parameters" />
+      <module name="web-mvc" options="-parameters" />
+      <module name="web-security" options="-parameters" />
+      <module name="web-shiro" options="-parameters" />
+      <module name="web-stomp" options="-parameters" />
+      <module name="web-thymeleaf" options="-parameters" />
+      <module name="web-to-java" options="-parameters" />
+      <module name="web-websocket" options="-parameters" />
+    </option>
+  </component>
+</project>

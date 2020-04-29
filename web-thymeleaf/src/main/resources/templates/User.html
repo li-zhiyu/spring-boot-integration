@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<table>
+    <tr>
+        <th>用户名</th>
+        <th>手机号</th>
+    </tr>
+    <tr th:each="user:${userlist}">
+        <td th:text="${user.userName}">January</td>
+        <td th:text="${user.phonenumber}">$100</td>
+    </tr>
+</table>
+
+</body>
+</html>

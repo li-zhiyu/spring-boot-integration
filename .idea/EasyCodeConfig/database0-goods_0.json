@@ -1,0 +1,31 @@
+{
+  "name" : "Goods0",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "goodsId",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "goodsName",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "goodsType",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.lzy.dbshardingjdbcfkfb",
+  "savePath" : "./db-shardingjdbc-fkfb/src/main/java/com/lzy/dbshardingjdbcfkfb",
+  "saveModelName" : "db-shardingjdbc-fkfb"
+}

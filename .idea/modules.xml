@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-springboot-base/01-springboot-base.iml" filepath="$PROJECT_DIR$/01-springboot-base/01-springboot-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-springboot-redis/02-springboot-redis.iml" filepath="$PROJECT_DIR$/02-springboot-redis/02-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-springboot-redis-login/02-springboot-redis-login.iml" filepath="$PROJECT_DIR$/02-springboot-redis-login/02-springboot-redis-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-springboot-data-jpa/04-springboot-data-jpa.iml" filepath="$PROJECT_DIR$/04-springboot-data-jpa/04-springboot-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-druid/db-druid.iml" filepath="$PROJECT_DIR$/db-druid/db-druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-dynamic-datasource/db-dynamic-datasource.iml" filepath="$PROJECT_DIR$/db-dynamic-datasource/db-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-mybatis-mutidatasource/db-mybatis-mutidatasource.iml" filepath="$PROJECT_DIR$/db-mybatis-mutidatasource/db-mybatis-mutidatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-shardingjdbc-dxfl/db-shardingjdbc-dxfl.iml" filepath="$PROJECT_DIR$/db-shardingjdbc-dxfl/db-shardingjdbc-dxfl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-shardingjdbc-fkfb/db-shardingjdbc-fkfb.iml" filepath="$PROJECT_DIR$/db-shardingjdbc-fkfb/db-shardingjdbc-fkfb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-facade/dubbo-facade.iml" filepath="$PROJECT_DIR$/dubbo-facade/dubbo-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/rabbitmq.iml" filepath="$PROJECT_DIR$/rabbitmq/rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-mvc/web-mvc.iml" filepath="$PROJECT_DIR$/web-mvc/web-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-security/web-security.iml" filepath="$PROJECT_DIR$/web-security/web-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-shiro/web-shiro.iml" filepath="$PROJECT_DIR$/web-shiro/web-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-stomp/web-stomp.iml" filepath="$PROJECT_DIR$/web-stomp/web-stomp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-thymeleaf/web-thymeleaf.iml" filepath="$PROJECT_DIR$/web-thymeleaf/web-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webtojava/web-to-java.iml" filepath="$PROJECT_DIR$/webtojava/web-to-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-websocket/web-websocket.iml" filepath="$PROJECT_DIR$/web-websocket/web-websocket.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ca1fbd0-acd2-4bbc-92bb-c41e41732c6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database0@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database0@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database0@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="database0: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dlz@192.168.19.55" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dlz@192.168.19.55" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Tag Library Descriptor" />
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\aliyun-settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YYu6cV9Kdp1XKub4avXcX9jK6E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-websocket/src/main/resources/templates" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\web-websocket\src\main\resources\templates" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\04-springboot-data-jpa\src\main\java\com\lzy\springbootdatajpa\entity" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\01-springboot-base\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\web-security\src\main\resources\templates" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\db-shardingjdbc-dxfl\src\main\java\com\lzy\dbshardingjdbcdxfl\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lzy.webwebsocket.Config" />
+      <recent name="com.lzy.websecurity.config" />
+      <recent name="com.lzy.websecurity.controller" />
+      <recent name="com.lzy.dbshardingjdbcdxfl.config" />
+      <recent name="com.lzy.dbshardingjdbcfkfb.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\db-mybatis-mutidatasource\src\main\resources\mapper\users" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\db-mybatis-mutidatasource\src\main\resources\mapper\orders" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 36 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzy.springbootredis.Application" />
+      <module name="02-springboot-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzy.springbootredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.contextLoads (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02-springboot-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzy.springbootredis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzy.springbootredis" />
+      <option name="MAIN_CLASS_NAME" value="com.lzy.springbootredis.ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.contextLoads (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04-springboot-data-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzy.springbootdatajpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzy.springbootdatajpa" />
+      <option name="MAIN_CLASS_NAME" value="com.lzy.springbootdatajpa.ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01-springboot-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzy.springbootbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzy.springbootbase" />
+      <option name="MAIN_CLASS_NAME" value="com.lzy.springbootbase.ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebWebsocketApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="web-websocket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzy.webwebsocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzy.webwebsocket" />
+      <option name="MAIN_CLASS_NAME" value="com.lzy.webwebsocket.WebWebsocketApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02-springboot-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.springbootredis.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04-springboot-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.springbootdatajpa.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02-springboot-redis-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01-springboot-base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.springbootbase.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbDruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="db-druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.dbdruid.DbDruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbDynamicDatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="db-dynamic-datasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.dbdynamicdatasource.DbDynamicDatasourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbMybatisMutidatasourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="db-mybatis-mutidatasource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.dbmybatismutidatasource.DbMybatisMutidatasourceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbShardingjdbcDxflApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="db-shardingjdbc-dxfl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.dbshardingjdbcdxfl.DbShardingjdbcDxflApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbShardingjdbcFkfbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="db-shardingjdbc-fkfb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.dbshardingjdbcfkfb.DbShardingjdbcFkfbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.dubboconsumer.DubboConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.dubboprovider.DubboProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dlz.rabbitmq.RabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootValidationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03-springboot-validation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.springbootvalidation.SpringbootValidationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebMvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-mvc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.webmvc.WebMvcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.websecurity.WebSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.webshiro.WebShiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebStompApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-stomp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.webstomp.WebStompApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.webthymeleaf.WebThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebToJavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-to-java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.webtojava.WebToJavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebWebsocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.webwebsocket.WebWebsocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.WebWebsocketApplicationTests" />
+        <item itemvalue="JUnit.ApplicationTests.contextLoads (2)" />
+        <item itemvalue="JUnit.ApplicationTests.contextLoads (1)" />
+        <item itemvalue="JUnit.ApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2159303" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ca1fbd0-acd2-4bbc-92bb-c41e41732c6d" name="Default Changelist" comment="" />
+      <created>1583131674138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583131674138</updated>
+      <workItem from="1583131677627" duration="12132000" />
+      <workItem from="1583196486174" duration="57251000" />
+      <workItem from="1584061505070" duration="2917000" />
+      <workItem from="1584089005693" duration="113000" />
+      <workItem from="1584089153937" duration="1637000" />
+      <workItem from="1584340962939" duration="54051000" />
+      <workItem from="1585614620872" duration="2022000" />
+      <workItem from="1585725454938" duration="19537000" />
+      <workItem from="1586220220035" duration="56170000" />
+      <workItem from="1586738641167" duration="1018000" />
+      <workItem from="1586741036002" duration="7026000" />
+      <workItem from="1586757369856" duration="1903000" />
+      <workItem from="1586759315152" duration="715000" />
+      <workItem from="1586760041066" duration="7564000" />
+      <workItem from="1586916362471" duration="1645000" />
+      <workItem from="1586918058377" duration="90000" />
+      <workItem from="1586918156218" duration="8256000" />
+      <workItem from="1587344379277" duration="234000" />
+      <workItem from="1587344659580" duration="18405000" />
+      <workItem from="1587516320862" duration="15759000" />
+      <workItem from="1587603274391" duration="10829000" />
+      <workItem from="1587696551163" duration="1164000" />
+      <workItem from="1587948039892" duration="3279000" />
+      <workItem from="1588037802759" duration="537000" />
+      <workItem from="1588038510694" duration="14607000" />
+      <workItem from="1588121010038" duration="7825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="162" key="#Custom_Plugin_Repositories" timestamp="1586738755830">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="162" key="#Custom_Plugin_Repositories/0.0.1680.1010@0.0.1680.1010" timestamp="1586738755830" />
+    <state x="432" y="162" key="#Notifications" timestamp="1586758252166">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="162" key="#Notifications/0.0.1680.1010@0.0.1680.1010" timestamp="1586758252166" />
+    <state x="432" y="162" key="#Project_Structure" timestamp="1583132292062">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="162" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1583132292062" />
+    <state x="502" y="274" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586418736569">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="502" y="274" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586418736569" />
+    <state x="683" y="427" width="494" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1588125292213">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="683" y="427" width="494" height="583" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1588125292213" />
+    <state x="570" y="279" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586481692698">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="279" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586481692698" />
+    <state x="460" y="182" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583203687643">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="460" y="182" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1583203687643" />
+    <state x="357" y="429" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583136459439">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="357" y="429" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1583136459439" />
+    <state x="544" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586419022917">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="544" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586419022917" />
+    <state x="276" y="98" key="CommitChangelistDialog2" timestamp="1586739412106">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="276" y="98" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1586739412106" />
+    <state width="548" height="466" key="DebuggerActiveHint" timestamp="1588122082947">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="548" height="466" key="DebuggerActiveHint/0.0.1680.1010@0.0.1680.1010" timestamp="1588122082947" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1586757582335">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1586757582335" />
+    <state x="649" y="417" key="Github.CreateGistDialog" timestamp="1587546769528">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="649" y="417" key="Github.CreateGistDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1587546769528" />
+    <state width="1636" height="189" key="GridCell.Tab.0.bottom" timestamp="1588128097134">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="189" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
+    <state width="1636" height="189" key="GridCell.Tab.0.center" timestamp="1588128097133">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="189" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097133" />
+    <state width="1636" height="189" key="GridCell.Tab.0.left" timestamp="1588128097133">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="189" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097133" />
+    <state width="1636" height="189" key="GridCell.Tab.0.right" timestamp="1588128097134">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="189" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
+    <state width="1636" height="189" key="GridCell.Tab.1.bottom" timestamp="1588128097134">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="189" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
+    <state width="1636" height="189" key="GridCell.Tab.1.center" timestamp="1588128097134">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="189" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
+    <state width="1636" height="189" key="GridCell.Tab.1.left" timestamp="1588128097134">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="189" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
+    <state width="1636" height="189" key="GridCell.Tab.1.right" timestamp="1588128097134">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="189" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
+    <state width="1259" height="439" key="GridCell.Tab.2.bottom" timestamp="1588124579346">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1259" height="439" key="GridCell.Tab.2.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588124579346" />
+    <state width="1259" height="439" key="GridCell.Tab.2.center" timestamp="1588124579346">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1259" height="439" key="GridCell.Tab.2.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588124579346" />
+    <state width="1259" height="439" key="GridCell.Tab.2.left" timestamp="1588124579346">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1259" height="439" key="GridCell.Tab.2.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588124579346" />
+    <state width="1259" height="439" key="GridCell.Tab.2.right" timestamp="1588124579346">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1259" height="439" key="GridCell.Tab.2.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588124579346" />
+    <state x="420" y="247" key="IDE.errors.dialog" timestamp="1585812392418">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="420" y="247" key="IDE.errors.dialog/0.0.1680.1010@0.0.1680.1010" timestamp="1585812392418" />
+    <state x="404" y="186" key="Maven.ArtifactSearchDialog" timestamp="1588041388618">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="404" y="186" key="Maven.ArtifactSearchDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1588041388618" />
+    <state x="341" y="136" key="SettingsEditor" timestamp="1588126707393">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="136" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1588126707393" />
+    <state width="848" height="513" key="XDebugger.FullValuePopup" timestamp="1588122023165">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="848" height="513" key="XDebugger.FullValuePopup/0.0.1680.1010@0.0.1680.1010" timestamp="1588122023165" />
+    <state x="696" y="234" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1586323426505">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="696" y="234" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586323426505" />
+    <state x="632" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586739371843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="632" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1586739371843" />
+    <state x="516" y="236" width="647" height="538" key="find.popup" timestamp="1586314790491">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="516" y="236" width="647" height="538" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1586314790491" />
+    <state x="211" y="111" key="new project wizard" timestamp="1588058998158">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="211" y="111" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1588058998158" />
+    <state x="594" y="375" width="716" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586757584006">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="594" y="375" width="716" height="309" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1586757584006" />
+    <state x="582" y="121" key="refactoring.ChangeSignatureDialog" timestamp="1585798057236">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="582" y="121" key="refactoring.ChangeSignatureDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1585798057236" />
+    <state x="496" y="227" key="run.anything.popup" timestamp="1585796179707">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="227" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1585796179707" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1588127380938">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1588127380938" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web-mvc/src/main/java/com/lzy/webmvc/aop/ContollerAop.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rabbitmq/src/main/java/com/dlz/rabbitmq/listener/DirectConsumerManualAck.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web-shiro/src/main/java/com/lzy/webshiro/config/MyShiroRealm.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/04-springboot-data-jpa/src/main/java/com/lzy/springbootdatajpa/Application.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/02-springboot-redis/src/main/java/com/lzy/springbootredis/service/Service1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

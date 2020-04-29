@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dubbo-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/web-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/webtojava/pom.xml" />
+        <option value="$PROJECT_DIR$/web-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/db-druid/pom.xml" />
+        <option value="$PROJECT_DIR$/web-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/web-stomp/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/db-mybatis-mutidatasource/pom.xml" />
+        <option value="$PROJECT_DIR$/db-shardingjdbc-fkfb/pom.xml" />
+        <option value="$PROJECT_DIR$/db-shardingjdbc-dxfl/pom.xml" />
+        <option value="$PROJECT_DIR$/web-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/web-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/01-springboot-base/pom.xml" />
+        <option value="$PROJECT_DIR$/02-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/04-springboot-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/02-springboot-redis-login/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
