@@ -58,9 +58,9 @@ public class MyShiroRealm extends AuthorizingRealm {
         }
         //这里会去校验密码是否正确
         SimpleAuthenticationInfo authenticationInfo = new SimpleAuthenticationInfo(
-                userInfo, //用户名
-                userInfo.getPassWord(),//密码
-                getName()
+                userInfo, //数据库里的用户信息
+                userInfo.getPassWord(),//数据库中的用户密码
+                getName()//Realm的名称
         );
         return authenticationInfo;
     }

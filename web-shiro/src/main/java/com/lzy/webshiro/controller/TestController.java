@@ -1,11 +1,15 @@
 package com.lzy.webshiro.controller;
 
+import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.IncorrectCredentialsException;
 import org.apache.shiro.authc.UnknownAccountException;
+import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.authz.annotation.RequiresPermissions;
-import org.apache.shiro.authz.annotation.RequiresRoles;
+import org.apache.shiro.subject.Subject;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import javax.servlet.http.HttpServletRequest;
@@ -13,24 +17,24 @@ import java.util.Map;
 
 @Controller
 public class TestController {
-    @GetMapping({"/","/index"})
+
+    @GetMapping({"/login"})
+    public String login(){
+        return "login";
+    }
+
+    @GetMapping({"/index"})
     public String index(){
         return "index";
     }
 
-    @GetMapping("/403")
+    @GetMapping("/unauth")
     public String unauthorizedRole(){
-        return "403";
-    }
-
-    @GetMapping("/logout")
-    public String logout(){
-        return "login";
+        return "unauth";
     }
 
     @GetMapping("/delete")
-    //@RequiresPermissions("delete")
-    @RequiresRoles("admin")
+    @RequiresPermissions("delete")
     public String delete(){
         return "delete";
     }
@@ -41,9 +45,26 @@ public class TestController {
         return "select";
     }
 
-    @RequestMapping("/login")
-    public String login(HttpServletRequest request, Map<String, Object> map) throws Exception{
-        System.out.println("HomeController.login()");
+    @PostMapping("/login")
+    public void submit(String username, String password, ModelMap map) {
+        UsernamePasswordToken upToken = new UsernamePasswordToken(username, password);
+        Subject subject = SecurityUtils.getSubject();
+        try {
+            if (!subject.isAuthenticated()){
+                subject.login(upToken);
+                map.addAttribute("msg","登录成功");
+            }
+        }catch (UnknownAccountException e){
+            map.addAttribute("msg","用户不存在");
+        }catch (IncorrectCredentialsException e){
+            map.addAttribute("msg","密码错误");
+        }
+    }
+
+
+
+    @RequestMapping("/login1")
+    public String login1(HttpServletRequest request, Map<String, Object> map) throws Exception{
         // 登录失败从request中获取shiro处理的异常信息。
         // shiroLoginFailure:就是shiro异常类的全类名.
         String exception = (String) request.getAttribute("shiroLoginFailure");

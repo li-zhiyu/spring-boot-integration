@@ -1,12 +1,17 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml" xmlns:shiro="http://www.pollix.at/thymeleaf/shiro">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
-index
 <br/>
+<div shiro:hasPermission="select">
+    <p>用户选择：<a href="/select">用户选择</a></p>
+</div>
+<div shiro:hasPermission="delete">
+    <p>用户删除：<a href="/delete">用户删除</a></p>
+</div>
 <form th:action="@{/logout}" method="post">
     <p><input type="submit" value="注销"/></p>
 </form>

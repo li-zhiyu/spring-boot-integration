@@ -100,7 +100,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-websocket/src/main/resources/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web-shiro/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -111,12 +111,9 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\Test\springboot\web-websocket\src\main\resources\templates" />
-      <recent name="C:\Users\Administrator\Desktop\Test\springboot\04-springboot-data-jpa\src\main\java\com\lzy\springbootdatajpa\entity" />
-      <recent name="C:\Users\Administrator\Desktop\Test\springboot\01-springboot-base\src\main\resources" />
-      <recent name="C:\Users\Administrator\Desktop\Test\springboot\web-security\src\main\resources\templates" />
-      <recent name="C:\Users\Administrator\Desktop\Test\springboot\db-shardingjdbc-dxfl\src\main\java\com\lzy\dbshardingjdbcdxfl\config" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\db-mybatis-mutidatasource\src\main\resources\mapper\users" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\db-mybatis-mutidatasource\src\main\resources\mapper\orders" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.lzy.webwebsocket.Config" />
@@ -125,9 +122,12 @@
       <recent name="com.lzy.dbshardingjdbcdxfl.config" />
       <recent name="com.lzy.dbshardingjdbcfkfb.config" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\Test\springboot\db-mybatis-mutidatasource\src\main\resources\mapper\users" />
-      <recent name="C:\Users\Administrator\Desktop\Test\springboot\db-mybatis-mutidatasource\src\main\resources\mapper\orders" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\web-shiro\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\web-websocket\src\main\resources\templates" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\04-springboot-data-jpa\src\main\java\com\lzy\springbootdatajpa\entity" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\01-springboot-base\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\Test\springboot\web-security\src\main\resources\templates" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -147,7 +147,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Spring Boot.WebShiroApplication">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lzy.springbootredis.Application" />
       <module name="02-springboot-redis" />
@@ -388,7 +388,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -432,7 +432,13 @@
       <workItem from="1587948039892" duration="3279000" />
       <workItem from="1588037802759" duration="537000" />
       <workItem from="1588038510694" duration="14607000" />
-      <workItem from="1588121010038" duration="7825000" />
+      <workItem from="1588121010038" duration="8123000" />
+      <workItem from="1588145021995" duration="571000" />
+      <workItem from="1588207808919" duration="512000" />
+      <workItem from="1588553160022" duration="8127000" />
+      <workItem from="1588639388580" duration="9735000" />
+      <workItem from="1588725906124" duration="18802000" />
+      <workItem from="1588814767833" duration="2627000" />
     </task>
     <servers />
   </component>
@@ -485,10 +491,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="276" y="98" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1586739412106" />
-    <state width="548" height="466" key="DebuggerActiveHint" timestamp="1588122082947">
+    <state width="548" height="466" key="DebuggerActiveHint" timestamp="1588734927121">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="548" height="466" key="DebuggerActiveHint/0.0.1680.1010@0.0.1680.1010" timestamp="1588122082947" />
+    <state width="548" height="466" key="DebuggerActiveHint/0.0.1680.1010@0.0.1680.1010" timestamp="1588734927121" />
     <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1586757582335">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -497,70 +503,70 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="649" y="417" key="Github.CreateGistDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1587546769528" />
-    <state width="1636" height="189" key="GridCell.Tab.0.bottom" timestamp="1588128097134">
+    <state width="1259" height="330" key="GridCell.Tab.0.bottom" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="189" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
-    <state width="1636" height="189" key="GridCell.Tab.0.center" timestamp="1588128097133">
+    <state width="1259" height="330" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.0.center" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="189" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097133" />
-    <state width="1636" height="189" key="GridCell.Tab.0.left" timestamp="1588128097133">
+    <state width="1259" height="330" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.0.left" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="189" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097133" />
-    <state width="1636" height="189" key="GridCell.Tab.0.right" timestamp="1588128097134">
+    <state width="1259" height="330" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.0.right" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="189" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
-    <state width="1636" height="189" key="GridCell.Tab.1.bottom" timestamp="1588128097134">
+    <state width="1259" height="330" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.1.bottom" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="189" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
-    <state width="1636" height="189" key="GridCell.Tab.1.center" timestamp="1588128097134">
+    <state width="1259" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.1.center" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="189" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
-    <state width="1636" height="189" key="GridCell.Tab.1.left" timestamp="1588128097134">
+    <state width="1259" height="330" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.1.left" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="189" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
-    <state width="1636" height="189" key="GridCell.Tab.1.right" timestamp="1588128097134">
+    <state width="1259" height="330" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.1.right" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1636" height="189" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588128097134" />
-    <state width="1259" height="439" key="GridCell.Tab.2.bottom" timestamp="1588124579346">
+    <state width="1259" height="330" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.2.bottom" timestamp="1588759220291">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1259" height="439" key="GridCell.Tab.2.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588124579346" />
-    <state width="1259" height="439" key="GridCell.Tab.2.center" timestamp="1588124579346">
+    <state width="1259" height="330" key="GridCell.Tab.2.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220291" />
+    <state width="1259" height="330" key="GridCell.Tab.2.center" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1259" height="439" key="GridCell.Tab.2.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588124579346" />
-    <state width="1259" height="439" key="GridCell.Tab.2.left" timestamp="1588124579346">
+    <state width="1259" height="330" key="GridCell.Tab.2.center/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.2.left" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1259" height="439" key="GridCell.Tab.2.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588124579346" />
-    <state width="1259" height="439" key="GridCell.Tab.2.right" timestamp="1588124579346">
+    <state width="1259" height="330" key="GridCell.Tab.2.left/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
+    <state width="1259" height="330" key="GridCell.Tab.2.right" timestamp="1588759220290">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1259" height="439" key="GridCell.Tab.2.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588124579346" />
+    <state width="1259" height="330" key="GridCell.Tab.2.right/0.0.1680.1010@0.0.1680.1010" timestamp="1588759220290" />
     <state x="420" y="247" key="IDE.errors.dialog" timestamp="1585812392418">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="420" y="247" key="IDE.errors.dialog/0.0.1680.1010@0.0.1680.1010" timestamp="1585812392418" />
-    <state x="404" y="186" key="Maven.ArtifactSearchDialog" timestamp="1588041388618">
+    <state x="404" y="186" key="Maven.ArtifactSearchDialog" timestamp="1588746370591">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="404" y="186" key="Maven.ArtifactSearchDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1588041388618" />
-    <state x="341" y="136" key="SettingsEditor" timestamp="1588126707393">
+    <state x="404" y="186" key="Maven.ArtifactSearchDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1588746370591" />
+    <state x="341" y="136" key="SettingsEditor" timestamp="1588730397119">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="341" y="136" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1588126707393" />
-    <state width="848" height="513" key="XDebugger.FullValuePopup" timestamp="1588122023165">
+    <state x="341" y="136" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1588730397119" />
+    <state width="848" height="513" key="XDebugger.FullValuePopup" timestamp="1588734524377">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="848" height="513" key="XDebugger.FullValuePopup/0.0.1680.1010@0.0.1680.1010" timestamp="1588122023165" />
+    <state width="848" height="513" key="XDebugger.FullValuePopup/0.0.1680.1010@0.0.1680.1010" timestamp="1588734524377" />
     <state x="696" y="234" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1586323426505">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -589,10 +595,10 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="496" y="227" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1585796179707" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1588127380938">
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1588814974104">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1588127380938" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1588814974104" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -608,11 +614,6 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/web-shiro/src/main/java/com/lzy/webshiro/config/MyShiroRealm.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/04-springboot-data-jpa/src/main/java/com/lzy/springbootdatajpa/Application.java</url>
           <line>9</line>
           <option name="timeStamp" value="22" />
@@ -621,6 +622,16 @@
           <url>file://$PROJECT_DIR$/02-springboot-redis/src/main/java/com/lzy/springbootredis/service/Service1.java</url>
           <line>14</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web-shiro/src/main/java/com/lzy/webshiro/config/MyShiroRealm.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web-shiro/src/main/java/com/lzy/webshiro/config/MyShiroRealm.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
